@@ -28,6 +28,12 @@ It focuses on visualizing the relationship between **flipper length** and **body
 - palmerpenguins
 
 ---
+## 📸 Screenshots
+
+![Dashboard Preview](https://github.com/DeepakSahooPro/google-data-analytics-r-projects/blob/main/01-palmer-penguins-visualization/palmer%20penguins.png)
+
+
+---
 
 ## 📁 File Structure
 
@@ -53,7 +59,6 @@ It focuses on visualizing the relationship between **flipper length** and **body
 - 🔗 **LinkedIn Profile**: [Deepak Sahoo](https://www.linkedin.com/in/deepak-sahoo-pro)
 
 ---
-
 ## 👤 Author
 
 **Deepak Sahoo**  
